@@ -1,6 +1,7 @@
-### Liang Weixuan
+## Liang Weixuan
 A postgraduate in [Sun Yat-sen University]("http://www.sysu.edu.cn/cn/index.htm"). I am interested in GIS and Remote sensing.
 
+![](http://sysu.edu.cn/images/logo.jpg)
 
 <!--
 **Pludaggerto/Pludaggerto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
