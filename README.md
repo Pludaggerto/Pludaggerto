@@ -1,5 +1,5 @@
 ## Liang Weixuan
-A postgraduate in [Sun Yat-sen University]("http://www.sysu.edu.cn/cn/index.htm"). I am interested in GIS and Remote sensing.
+A postgraduate in [Sun Yat-sen University]("http://www.sysu.edu.cn/cn/index.htm"), interested in GIS and Remote sensing.
 
 ![](http://sysu.edu.cn/images/logo.jpg)
 
